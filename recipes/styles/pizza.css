@@ -1,0 +1,16 @@
+
+.pic-modification
+{
+ width: 200px;
+ height: 200px;
+ border: none;
+ border-radius: 10px;
+ margin-left: 7px;
+ cursor: pointer;
+ transition-duration: .80s;
+}
+.pic-modification:hover
+{
+    box-shadow: 0.1px 1px 10px 1px rgb(55, 56, 55);
+    
+}

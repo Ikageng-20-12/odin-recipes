@@ -1,0 +1,15 @@
+.picture
+{
+ width: 200px;
+ height: 200px;
+ border: none;
+ border-radius: 10px;
+ margin-left: 7px;
+ transition-duration: .70s;
+ cursor: pointer;
+}
+.picture:hover
+{
+    box-shadow: 0.1px 1px 10px 1px rgb(117, 20, 3);
+    
+}
